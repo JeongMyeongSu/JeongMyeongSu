@@ -10,7 +10,7 @@
 
 ### 🌱 Educations
 - 서울과학기술대학교 서울캠퍼스 2014.03 - 2020.02 (full-ride scholarship)
-- SSAFY - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) Jul 2021 ~ now (1학기 종합성적 우수 2등)
+- SSAFY - 삼성 청년 SW 아카데미 6기 (Web Full-Stack Course) Jul 2021 ~ Apr 2022 (1학기 종합성적 우수 2등)
 ---
 
 ### 📫 Contact
